@@ -70,10 +70,16 @@ npm start
 4.Open your browser and navigate to http://localhost:3000 to view the application.
 -------------------
 ScreenSort output
+#home page
 ![Screenshot 2024-10-14 211555](https://github.com/user-attachments/assets/08355da2-35c2-4fbe-a8bc-c1262abd68cc)
+#add product
 ![Screenshot 2024-10-14 211624](https://github.com/user-attachments/assets/eb09bd10-31a0-49ab-b8cd-bcb25165256b)
-![Screenshot 2024-10-14 211813](https://github.com/user-attachments/assets/ff8ad5a0-f682-48e3-97d4-92d417831297)
+#Add cart
 ![Screenshot 2024-10-14 211716](https://github.com/user-attachments/assets/b04afb07-efca-4e7f-bcbf-b4761ac50bd7)
+#view cart order
 ![Screenshot 2024-10-14 211750](https://github.com/user-attachments/assets/0640298c-687f-4b55-881c-eaa8cecfc51e)
+#update the item incressing the product
+![Screenshot 2024-10-14 211813](https://github.com/user-attachments/assets/ff8ad5a0-f682-48e3-97d4-92d417831297)
+#remove the item
 ![Screenshot 2024-10-14 211850](https://github.com/user-attachments/assets/fbe310bf-779c-46e6-a6a6-25e35483f66e)
 
